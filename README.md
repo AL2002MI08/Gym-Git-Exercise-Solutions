@@ -1,4 +1,4 @@
-## BUNDLE 1
+## BUNDLE 2
 # EXERCISE 1
 ```
 PS C:\Users\student\Downloads\git_exercise> git checkout ft/bundle-2
