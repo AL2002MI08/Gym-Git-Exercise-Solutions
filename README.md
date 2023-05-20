@@ -1,32 +1,6 @@
 ## BUNDLE 3
-#EXERCISE 2
+# EXERCISE 2
 ```
-git checkout -b ft/home-page-redesign
-Switched to branch 'main'
-PS C:\Users\student\Downloads\git_exercise> git commit -m "added new text to home"
-On branch main
-nothing to commit, working tree clean
-On branch main
-PS C:\Users\student\Downloads\git_exercise> git push origin main
-PS C:\Users\student\Downloads\git_exercise> git add home.html
-PS C:\Users\student\Downloads\git_exercise> git commit -m "added new text to home"
-On branch main
-nothing to commit, working tree clean
-PS C:\Users\student\Downloads\git_exercise> git checkout ft/home-page-redesign    
-Switched to branch 'ft/home-page-redesign'
-PS C:\Users\student\Downloads\git_exercise> git fetch
-PS C:\Users\student\Downloads\git_exercise> git checkout main
-Switched to branch 'main'
-PS C:\Users\student\Downloads\git_exercise> git pull origin main
-From https://github.com/AL2002MI08/Git-exercise
- * branch            main       -> FETCH_HEAD
-Already up to date.
-PS C:\Users\student\Downloads\git_exercise> git checkout ft/home-page-redesign
-Switched to branch 'ft/home-page-redesign'
-PS C:\Users\student\Downloads\git_exercise> git rebase main
-Current branch ft/home-page-redesign is up to date.
-PS C:\Users\student\Downloads\git_exercise> git log
-PS C:\Users\student\Downloads\git_exercise> git checkout ft/faq-page 
 PS C:\Users\student\Downloads\git_exercise> git checkout -b ft/home-page-redesign
 Switched to a new branch 'ft/home-page-redesign'
 Switched to branch 'main'
@@ -65,7 +39,7 @@ Switched to branch 'ft/home-page-redesign'
 PS C:\Users\student\Downloads\git_exercise> git fetch
 PS C:\Users\student\Downloads\git_exercise> git rebase --continue
 fatal: No rebase in progress?
-PS C:\Users\student\Downloads\git_exercise> git push  origin ft/home-page-redesign       
+PS C:\Users\student\Downloads\git_exercise> git push  origin ft/home-page-redesign
 Enumerating objects: 10, done.
 Counting objects: 100% (10/10), done.
 Delta compression using up to 4 threads
@@ -79,8 +53,4 @@ remote:      https://github.com/AL2002MI08/Git-exercise/pull/new/ft/home-page-re
 remote:
 To https://github.com/AL2002MI08/Git-exercise.git
  * [new branch]      ft/home-page-redesign -> ft/home-page-redesign
-PS C:\Users\student\Downloads\git_exercise> git add .
-PS C:\Users\student\Downloads\git_exercise> git status
-On branch ft/home-page-redesign
-nothing to commit, working tree clean
 ```
